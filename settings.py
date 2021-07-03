@@ -28,7 +28,7 @@ class Settings:
     def reset_speed_settings(self):
         self.fleet_drop_speed = 10
         self.bullet_speed = 2.0
-        self.alien_speed = 1.0
+        self.alien_speed = 0.5
 
 
 
